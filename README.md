@@ -1,5 +1,5 @@
 
-# Pokemon Trading Card game
+# Pokemon Trading Card Game
 
 Selects the pokemon you want and navigate to get all the available Trading Card Game
 
