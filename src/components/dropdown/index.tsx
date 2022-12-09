@@ -11,7 +11,7 @@ type Props = {
 export const Dropdown = ({ listOfPokemon, setPickedPokemon }: any) => {
   const [open, setOpen] = useState(false);
   const [value, setValue] = useState(null);
-  const [items, setItems] = useState([{}]);
+  const [items, setItems] = useState([]);
 
   useEffect(() => {
     listOfPokemon.length > 0
